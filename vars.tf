@@ -1,9 +1,9 @@
 variable "AWS_ACCESS_KEY" {
-  default = "AKIAUAXCBEBQCCBH6O7P"
+  default = "<AWS_ACCESS_KEY>"
 }
 
 variable "AWS_SECRET_KEY" {
-  default = "cY5XMHaF9DQvJPz+2l6tjJcEllwZ12sXCTiUTtJ7"
+  default = "<AWS_SECRET_KEY>"
 }
 
 variable "PATH_TO_PRIVATE_KEY" {
